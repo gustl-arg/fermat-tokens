@@ -34,14 +34,14 @@ Every month new tokens are issued according to the [CONTRIBUTION PROGRAM](https:
 
 | Year | Month | Tokens Issued | Dollar Value | USD / Fermat Rate | # Contributors |
 |:---:|---:|:---:|:---:|:---:|:---:|
-|2015|May|12,000|7,200|0.60|5|
-|2015|Jun|14,597|10,850|0.74|7|
-|2015|Jul|9,214|13,550|1.47|8|
-|2015|Aug|8,215|18,000|2.19|13|
-|2015|Sep|9,022|26,200|2.90|20|
-|2015|Oct|10,043|36,220|3.61|28|
-|2015|Nov|8,639|37,117|4.30|30|
-|2015|Dec|8,571|42,700|4.98|34|
+|2015|May|25,200|7,200|0.29|5|
+|2015|Jun|30,653|10,850|0.35|7|
+|2015|Jul|19,348|13,550|0.70|8|
+|2015|Aug|17,251|18,000|1.04|13|
+|2015|Sep|18,946|26,200|1.38|20|
+|2015|Oct|21,090|36,220|1.72|28|
+|2015|Nov|18,141|37,117|2.05|30|
+|2015|Dec|17,999|42,700|2.37|34|
 
 
 Note: Fermat Tokens prices are arbitrary set according to the perceived progress of the project. This technique will be discontinued once we set up open market mechanisms within Fermat to buy & sell fermats for bitcoins.
