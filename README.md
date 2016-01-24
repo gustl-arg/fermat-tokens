@@ -33,7 +33,7 @@ There are three development programs running that contribute on a monthly basis 
 Every month new tokens are issued according to the [CONTRIBUTION PROGRAM](https://github.com/bitDubai/contribution-program) to pay for contributions done to the project. Below you can see the details of tokens issued related to this program.
 
 | Year | Month | Tokens Issued | Dollar Value | USD / Fermat Rate | # Contributors |
-|:---:|---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|:---:|
 |2015|May|25,200|7,200|0.29|5|
 |2015|Jun|30,653|10,850|0.35|7|
 |2015|Jul|19,348|13,550|0.70|8|
@@ -69,7 +69,7 @@ The first payments are schedulled for Feb 2016.
 Starting Feb 2016 we will be issuing Fermat Tokens for bitcoin in order to cover project expenses. Here we keep track of the tokens issued by this Program.
 
 | Year | Month | Tokens Issued | Dollar Value | USD / Fermat Rate | 
-|:---:|---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 |2016|Feb|0|0|3.03|
 |2016|Mar|0|0|3.35|
 |2016|Apr|0|0|3.68|
