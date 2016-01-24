@@ -64,9 +64,9 @@ Every month new tokens are issued according to the [DUBAI COMPETITION PROGRAM](h
 The first payments are schedulled for Feb 2016.
 
 <br>
-### Monthly Sales Program
+### Sale for Bitcoin Program
 
-Starting Feb 2016 we will be issuing Fermat Tokens for cash in order to cover project expenses. Here we keep track of the tokens issued by this Program.
+Starting Feb 2016 we will be issuing Fermat Tokens for bitcoin in order to cover project expenses. Here we keep track of the tokens issued by this Program.
 
 | Year | Month | Tokens Issued | Dollar Value | USD / Fermat Rate | 
 |:---:|---:|:---:|:---:|:---:|
