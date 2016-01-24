@@ -46,7 +46,7 @@ Every month new tokens are issued according to the [CONTRIBUTION PROGRAM](https:
 
 Note: Fermat Tokens prices are arbitrary set according to the perceived progress of the project. This technique will be discontinued once we set up open market mechanisms within Fermat to buy & sell fermats for bitcoins.
 
-<br>
+
 ### Bounty Program Tokens
 
 Every month new tokens are issued according to the [BOUNTY PROGRAM](https://github.com/bitDubai/bounty-program) to pay for contributions done to the project.
@@ -55,7 +55,6 @@ Every month new tokens are issued according to the [BOUNTY PROGRAM](https://gith
 Currently, no bounty has been awarded yet.
 
 
-<br>
 ### Competition Program Tokens
 
 Every month new tokens are issued according to the [DUBAI COMPETITION PROGRAM](https://github.com/bitDubai/competition/tree/master/2016AUC) to pay for contributions done maintaining components.
@@ -63,7 +62,6 @@ Every month new tokens are issued according to the [DUBAI COMPETITION PROGRAM](h
 
 The first payments are schedulled for Feb 2016.
 
-<br>
 ### Sale for Bitcoin Program
 
 Starting Feb 2016 we will be issuing Fermat Tokens for bitcoin in order to cover project expenses. Here we keep track of the tokens issued by this Program.
