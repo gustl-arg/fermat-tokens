@@ -2,7 +2,6 @@
 
 # Fermat Tokens
 
-![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Tokens/Fermat%20App%20Token/PerspView/HQ_1920x1080.jpg "Fermat Application Token")
 
 
 <br>
@@ -13,6 +12,9 @@ Fermat Tokens are the native application tokens of the Fermat system. End users 
 An in depth descripcion of Fermat Tokens can be found at the [Fermat White Paper](https://github.com/bitDubai/fermat/blob/master/FERMAT-WHITE-PAPER.md).
 
 Currently there is no automated system to issue Fermat Tokens as the Fermat Blockchain has not been released, nevertheless several tokens had been issued already and here we keep track of them.
+
+![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Tokens/Fermat%20App%20Token/PerspView/HQ_1920x1080.jpg "Fermat Application Token")
+
 
 <br>
 ## Early Issuing
