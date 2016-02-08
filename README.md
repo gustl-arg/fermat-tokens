@@ -25,9 +25,8 @@ Fermat was founded in 2014 by a group of people that defined the vision and work
 
 ### First Tokens Sale
 
-Early 2015 a first token sale was closed. 700,000 Fermat tokens where sold for 200K USD setting the price at 1 Fermat = 0.29 USD. 
-
-
+Early 2015 a first token sale was closed: <br>
+700,000 Fermat tokens where sold for 200K USD setting the price at 1 Fermat = 0.29 USD. 
 <br>
 ## Monthy Issuing
 
