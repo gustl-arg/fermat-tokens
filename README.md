@@ -7,26 +7,27 @@
 <br>
 ## Introduction
 
-Fermat Tokens are the native application tokens of the Fermat system. End users need these tokens to pay for micro-use-licenses of the components they use while using Fermat APPs and to pay for bandwidh to the Fermat Network's miners.
+Fermat Tokens are the native application tokens of the Fermat system. End users need these tokens to pay for micro-use-licenses of the components they use while using Fermat apps and to pay for bandwidh to the Fermat Network's miners.
 
-The Fermat Protocol issues Fermat tokens for the Foundations and to Miners according to a schedulle described at the Fermat white paper.
+The Fermat Protocol issues Fermat tokens for the Foundation and to Miners according to a schedulle described at the Fermat white paper.
 
-Currently there is no automated system to record the issuing of Fermat Tokens as the Fermat Blockchain has not been released, here we keep track of them.
+Currently there is no automated system to record the issuing of Fermat Tokens as the Fermat Blockchain has not been released, the recording is done manually and here we keep track of them.
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Tokens/Fermat%20App%20Token/PerspView/HQ_1920x1080.jpg "Fermat Application Token")
 
-
 <br>
-## Early Issuing
+## Start of Protocol Issuing
+
+Since April 2014 the protocol started issuing tokens to the Fermat Foundation, a theorical entity by then. 
 
 ### Founders Tokens
 
-Fermat was founded in 2014 by a group of people that defined the vision and worked on the arquitecture of the system. By that time Fermat Tokens were worthless since no one had ever bought any of them. For their contribution founders got the first batch of 2.1 million Fermat Tokens, representing 10.00% of the 21 million to be ever issued.
+By Februery 2015 after accumulating 2.4 million tokens the Fermat Foundation pays 2.1 million (10% of the total projected supply) to the founders of the project in a transaction we call the founders' bounty, in exchange for the design of the system and a primitive implementation of its architecture. This is a simbolic transaction since by that time each token value was $0.
 
 ### First Tokens Sale
 
-Early 2015 a first token sale was closed: <br>
-700,000 Fermat tokens where sold for 200K USD setting the price at 1 Fermat = 0.29 USD. 
+By March 2015 a first token sale was closed: <br>
+700,000 Fermat tokens where sold for 200K USD to a visionary angel investor setting the price at 1 Fermat = 0.29 USD. 
 <br>
 ## Monthy Issuing
 
