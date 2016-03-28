@@ -29,13 +29,14 @@ By Februery 2015 after accumulating 2.4 million tokens the Fermat Foundation pay
 By March 2015 a first token sale was closed: <br>
 700,000 Fermat tokens where sold for 200K USD to a visionary angel investor setting the price at 1 Fermat = 0.29 USD. 
 <br>
-## Monthy Issuing
 
-There are three development programs running that contribute on a monthly basis to the project and Fermat tokens are issued to compensate these contributions.
+## Monthy Bounties
+
+There are three development programs running that contribute on a monthly basis to the project and Fermat tokens are used to compensate these contributions.
 
 ### Contribution Program Tokens
 
-Every month new tokens are issued according to the [CONTRIBUTION PROGRAM](https://github.com/bitDubai/contribution-program) to pay for contributions done to the project. Below you can see the details of tokens issued related to this program.
+Every month new tokens are spent according to the [CONTRIBUTION PROGRAM](https://github.com/bitDubai/contribution-program) to pay for contributions done to the project. Below you can see the details of tokens spent related to this program.
 
 | Year | Month | Tokens Issued | Dollar Value | USD / Fermat Rate | # Contributors |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -49,27 +50,27 @@ Every month new tokens are issued according to the [CONTRIBUTION PROGRAM](https:
 |2015|Dec|17,999|42,700|2.37|34|
 
 
-Note: Fermat Tokens prices are arbitrary set according to the perceived progress of the project. This technique will be discontinued once we set up open market mechanisms within Fermat to buy & sell fermats for bitcoins.
+Note: Fermat Tokens prices are arbitrary set by the Fermat Foundation according to the perceived progress of the project. This technique will be discontinued once we set up open market mechanisms within Fermat to buy & sell fermats for bitcoins.
 
 
 ### Bounty Program Tokens
 
-Every month new tokens are issued according to the [BOUNTY PROGRAM](https://github.com/bitDubai/bounty-program) to pay for contributions done to the project.
+Every month new tokens are spent according to the [BOUNTY PROGRAM](https://github.com/bitDubai/bounty-program) to pay for contributions done to the project.
 
 
-Currently, no bounty has been awarded yet.
+Several bounties have been awarded.
 
 
 ### Competition Program Tokens
 
-Every month new tokens are issued according to the [DUBAI COMPETITION PROGRAM](https://github.com/bitDubai/competition/tree/master/2016AUC) to pay for contributions done maintaining components.
+Every month new tokens are spent according to the [DUBAI COMPETITION PROGRAM](https://github.com/bitDubai/competition/tree/master/2016AUC) to pay for contributions done maintaining components.
 
 
-The first payments are schedulled for Feb 2016.
+The first payments are schedulled for April 2016.
 
-### Sale for Bitcoin Program Tokens
+### Fermat Foundation Token Auctions
 
-Starting Feb 2016 we will be issuing Fermat Tokens for bitcoin in order to cover project expenses. Here we keep track of the tokens issued by this Program.
+Starting May 2016 the Foundation will be auctioning Fermat Tokens for bitcoin in order to cover expenses. Here we keep track of the tokens auctioned by this Program.
 
 | Year | Month | Tokens Issued | Dollar Value | USD / Fermat Rate | 
 |:---:|:---:|:---:|:---:|:---:|
