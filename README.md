@@ -7,11 +7,11 @@
 <br>
 ## Introduction
 
-Fermat Tokens are the native application tokens of the Fermat system. End users need these tokens to pay for licenses of paid Fermat APPs and to pay for bandwidh to the Fermat Network's miners.
+Fermat Tokens are the native application tokens of the Fermat system. End users need these tokens to pay for micro-use-licenses of the components they use while using Fermat APPs and to pay for bandwidh to the Fermat Network's miners.
 
-An in depth descripcion of Fermat Tokens can be found at the [Fermat White Paper](https://github.com/bitDubai/fermat/blob/master/FERMAT-WHITE-PAPER.md).
+The Fermat Protocol issues Fermat tokens for the Foundations and to Miners according to a schedulle described at the Fermat white paper.
 
-Currently there is no automated system to issue Fermat Tokens as the Fermat Blockchain has not been released, nevertheless several tokens had been issued already and here we keep track of them.
+Currently there is no automated system to record the issuing of Fermat Tokens as the Fermat Blockchain has not been released, here we keep track of them.
 
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/MediaKit/Tokens/Fermat%20App%20Token/PerspView/HQ_1920x1080.jpg "Fermat Application Token")
 
