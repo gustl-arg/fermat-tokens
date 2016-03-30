@@ -46,9 +46,9 @@ Every month new tokens are spent according to the [CONTRIBUTION PROGRAM](https:/
 |2015|Aug|17,251|18,000|1.04|13|
 |2015|Sep|18,946|26,200|1.38|20|
 |2015|Oct|21,090|36,220|1.72|28|
-|2015|Nov|18,141|37,117|2.05|30|
-|2015|Dec|17,999|42,700|2.37|34|
-
+|2015|Nov|18,141|37,917|2.05|30|
+|2015|Dec|17,999|44,900|2.37|34|
+|2016|Jan|17,372|52,662.50|3.03|38|
 
 Note: Fermat Tokens prices are arbitrary set by the Fermat Foundation according to the perceived progress of the project. This technique will be discontinued once we set up open market mechanisms within Fermat to buy & sell fermats for bitcoins.
 
